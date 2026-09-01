@@ -1,6 +1,6 @@
 # computational_eletrocatalysis
 Open educational notebooks and computational workflows for learning computational electrocatalysis.
-# Computational Electrocatalysis MOOC
+# Computational Electrocatalysis 
 
 ## An Integrated Learning Pathway for Computational Electrocatalysis
 
